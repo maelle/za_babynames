@@ -3,7 +3,7 @@ South African baby names 2016
 
 This repository contains the data kindly provided by Stats SA for my [R package development workshop at satRday 2018 in Cape Town](http://capetown2018.satrdays.org/#workshops). Thanks to [Jon Calder](https://github.com/jonmcalder) for helping me find the data!
 
-Data about live births collected by Stats SA, see http://www.statssa.gov.za/?page_id=1854&PPN=P0305&SCH=7092}
+Data about live births in 2016 collected by Stats SA, see http://www.statssa.gov.za/?page_id=1854&PPN=P0305&SCH=7092
 
 The data is distributed with a [CC-BY SA license](https://creativecommons.org/licenses/by-sa/2.0/).
 
